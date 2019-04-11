@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: eQuanta
+description: Diligentia laborat in omnis silvae et maria  Benvindos à nossa landing page!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://leroy1977.github.io/maintenance/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# Diligentia laborat in omnis silvae, flumem et maria.
+
+# enable automatic sitemap generation
+# gems:
+#       - jekyll-sitemap
+
+# User settings
+username: eQuanta
+user_description: Organizada pela experiência de mais de 10 anos de sua equipe base, a eQuanta opera desde 2013 previlegiando rigor técnico, custo-efetividade e excelência, em relações de cooperação, transparência e sinergia. Contamos com uma equipe de consultores, mestres e doutores em especialidades variadas, organizada segundo as características de cada projeto. Atendemos a organizações, governos e empresas interessadas em valorizar seus negócios através da sustentabilidade.
+                
+user_title: Diligentia laborat in omnis silvae et maria Benvindos à nossa landing page!
+email: e.quanta.env@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+# facebook_username:  @eQuanta.env
+
+
+# Google-analytics
+google-analytics:
+  id: "UA-97464337-1"
