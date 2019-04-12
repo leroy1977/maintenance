@@ -1,11 +1,6 @@
-url: https://leroy1977.github.io/maintenance/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://leroy1977.github.io/maintenance/
 
 email: e.quanta.env@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
-# facebook_username:  @eQuanta.env
-
 
 # Google-analytics
 google-analytics:
